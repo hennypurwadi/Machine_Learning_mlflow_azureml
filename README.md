@@ -1,25 +1,11 @@
 ## mlflow_mlop
 Machine Learning Model, MLflow for tracking, Flask for user input, Docker for package containerization, AzureDevops for MLOP
 
-## Type in requirements.txt:
-    flask == 1.1.2
-    sklearn
-    scipy
-    numpy
-    pandas
-    matplotlib
-    seaborn
-    schedule
-    jupyter
-    mlflow
-    requests
-    schedule
-
 ## To build, Docker needs:
 	Dockerfile
 	app.py
 	requirements.txt
-
+	
 ## Inside Docker File:
     FROM python:3.7.3-stretch
     EXPOSE 5000
@@ -36,6 +22,20 @@ Machine Learning Model, MLflow for tracking, Flask for user input, Docker for pa
 
     ENTRYPOINT [ "python" ] 
     CMD [ "app.py" ] 
+	
+## Type in requirements.txt:
+    flask == 1.1.2
+    sklearn
+    scipy
+    numpy
+    pandas
+    matplotlib
+    seaborn
+    schedule
+    jupyter
+    mlflow
+    requests
+    schedule
 
 ## from command prompt type:
 
