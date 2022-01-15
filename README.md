@@ -1,8 +1,7 @@
 ## mlflow_mlop
 Machine Learning Model, MLflow for tracking, Flask for user input, Docker for package containerization, AzureDevops for MLOP
 
-## Create virtual environments:
-### Type in requirements.txt:
+## Type in requirements.txt:
     flask == 1.1.2
     sklearn
     scipy
@@ -15,8 +14,7 @@ Machine Learning Model, MLflow for tracking, Flask for user input, Docker for pa
     mlflow
     requests
     schedule
-   
-## Docker
+
 ## To build, Docker needs:
 	Dockerfile
 	app.py
