@@ -58,7 +58,7 @@ Standard Port : 80, 443,5000
 User input A1 and A2 between number 0 or 1
 Model predict and show prediction between 0 or 1, 0 for Not Fraud, 1 for Fraud probability.	
 
-## MlFlow & Data versioning
+## MlFlow
 	import mlflow
 	import mlflow.sklearn
 	remote_server_uri = "http://0.0.0.0:5000"
