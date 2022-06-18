@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=IY6SOJmujV8&t=31s
+
 ## mlflow_mlop
 Machine Learning Model, MLflow for tracking, Flask for user input, Docker for package containerization, AzureDevops for MLOP
 
