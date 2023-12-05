@@ -1,7 +1,7 @@
 ## Presentation:
 https://www.youtube.com/watch?v=IY6SOJmujV8
 
-![Image description](https://github.com/hennypurwadi/Machine_Learning_mlflow_azureml?raw=true)
+![Image description](https://github.com/hennypurwadi/Machine_Learning_mlflow_azureml.jpg?raw=true)
 
 ## mlflow_mlop
 Machine Learning Model, MLflow for tracking, Flask for user input, Docker for package containerization, AzureDevops for MLOP
